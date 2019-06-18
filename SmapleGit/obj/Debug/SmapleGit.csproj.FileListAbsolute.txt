@@ -8,3 +8,13 @@ G:\PHASE2\DOTNET\SampleGit\SmapleGit\obj\Debug\SmapleGit.csproj.GenerateResource
 G:\PHASE2\DOTNET\SampleGit\SmapleGit\obj\Debug\SmapleGit.csproj.CoreCompileInputs.cache
 G:\PHASE2\DOTNET\SampleGit\SmapleGit\obj\Debug\SmapleGit.exe
 G:\PHASE2\DOTNET\SampleGit\SmapleGit\obj\Debug\SmapleGit.pdb
+G:\PHASE2\DOTNET\GetFilesFromGit\MRChanges\SmapleGit\bin\Debug\SmapleGit.exe.config
+G:\PHASE2\DOTNET\GetFilesFromGit\MRChanges\SmapleGit\bin\Debug\SmapleGit.exe
+G:\PHASE2\DOTNET\GetFilesFromGit\MRChanges\SmapleGit\bin\Debug\SmapleGit.pdb
+G:\PHASE2\DOTNET\GetFilesFromGit\MRChanges\SmapleGit\obj\Debug\SmapleGit.csprojResolveAssemblyReference.cache
+G:\PHASE2\DOTNET\GetFilesFromGit\MRChanges\SmapleGit\obj\Debug\SmapleGit.Form1.resources
+G:\PHASE2\DOTNET\GetFilesFromGit\MRChanges\SmapleGit\obj\Debug\SmapleGit.Properties.Resources.resources
+G:\PHASE2\DOTNET\GetFilesFromGit\MRChanges\SmapleGit\obj\Debug\SmapleGit.csproj.GenerateResource.cache
+G:\PHASE2\DOTNET\GetFilesFromGit\MRChanges\SmapleGit\obj\Debug\SmapleGit.csproj.CoreCompileInputs.cache
+G:\PHASE2\DOTNET\GetFilesFromGit\MRChanges\SmapleGit\obj\Debug\SmapleGit.exe
+G:\PHASE2\DOTNET\GetFilesFromGit\MRChanges\SmapleGit\obj\Debug\SmapleGit.pdb
